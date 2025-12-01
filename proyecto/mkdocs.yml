@@ -1,0 +1,14 @@
+site_name: Hunter x Hunter Documentación
+
+nav:
+  - Inicio: index.md
+  - About: about.md
+
+theme:
+  name: material
+  language: es
+  palette:
+    primary: green
+    accent: deep orange
+  font:
+    code: Roboto 
